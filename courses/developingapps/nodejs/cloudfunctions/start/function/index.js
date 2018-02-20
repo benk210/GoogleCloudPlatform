@@ -13,6 +13,7 @@
 
 // TODO: Load the ./languageapi module
 
+const languageAPI = require('./languageapi');
 
 
 // END TODO
